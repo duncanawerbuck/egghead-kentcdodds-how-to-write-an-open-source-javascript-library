@@ -8,3 +8,4 @@ As per Kent C Dodds' Egghead Course: https://egghead.io/lessons/javascript-how-t
 * Set up continuous integration
 * Add ES6 support using Babel
 * Integrate WebPack
+
