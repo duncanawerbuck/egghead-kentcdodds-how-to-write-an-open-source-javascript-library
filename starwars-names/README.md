@@ -9,3 +9,7 @@ As per Kent C Dodds' Egghead Course: https://egghead.io/lessons/javascript-how-t
 * Add ES6 support using Babel
 * Integrate WebPack
 
+## So Far
+* Created account on npm
+* Set some local npm settings (author, email, url, save-exact=true)
+* run npm init to create package.json
