@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/githubUser919/egghead-kentcdodds-how-to-write-an-open-source-javascript-library/issues"
   },
-  "homepage": "https://github.com/githubUser919/egghead-kentcdodds-how-to-write-an-open-source-javascript-library#readme"
+  "homepage": "https://github.com/githubUser919/egghead-kentcdodds-how-to-write-an-open-source-javascript-library#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
