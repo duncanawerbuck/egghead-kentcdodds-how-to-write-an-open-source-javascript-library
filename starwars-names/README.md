@@ -16,4 +16,4 @@ As per Kent C Dodds' Egghead Course: https://egghead.io/lessons/javascript-how-t
 * Create index.js and .json file containing names of Star Wars characters
 * Add 2 methods to our main module (index.js): "all" and "random". We take our first dependency on another npm module: unique-random-array.
 * Add chai and mocha, so we can create a basic test (index.spec.js)
-* 
+* Change basic test to real test (test that our 'all' function returns an array of strings)
