@@ -10,6 +10,10 @@ As per Kent C Dodds' Egghead Course: https://egghead.io/lessons/javascript-how-t
 * Integrate WebPack
 
 ## So Far
-* Created account on npm
+* Create account on npm
 * Set some local npm settings (author, email, url, save-exact=true)
-* run npm init to create package.json
+* Run npm init to create package.json
+* Create index.js and .json file containing names of Star Wars characters
+* Add 2 methods to our main module (index.js): "all" and "random". We take our first dependency on another npm module: unique-random-array.
+* Add chai and mocha, so we can create a basic test (index.spec.js)
+* 
